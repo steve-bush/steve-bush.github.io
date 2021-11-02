@@ -31,7 +31,7 @@ Summa cum laude, GPA 4.0
 -	Used milling machines, drill presses, saws, and sanders to fix parts and troubleshoot design flaws  
 
 ## Projects
-### [Scale Plots](https://github.com/steve-bush/scale_plots)
+### [Sensitivity and Covariance Plotter](https://github.com/steve-bush/scale_plots)
 -	Application to replace legacy sensitivity and covariance plotting software
 -	Parse SCALE sensitivity (text) and covariance (binary) files and convert to pandas DataFrames
 -	Created GUI and module for customizable line graphs and heatmaps  
