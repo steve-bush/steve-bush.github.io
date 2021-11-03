@@ -84,6 +84,6 @@ Summa cum laude, GPA 4.0
     <td>JSON</td><td>LabVIEW</td>
   </tr>
   <tr>
-    <td>Markdowm</td><td>Microsoft Office</td>
+    <td>Markdown</td><td>Microsoft Office</td>
   </tr>
 </table>  
